@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Reddit App with next13 and typescript,redux,tailwind,jest
+.Implementing Searchbar function when loggedIn in the future
 
 First, run the development server:
 
