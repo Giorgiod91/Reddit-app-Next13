@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Reddit App with next13 and typescript,redux,tailwind,jest
 .Implementing Searchbar function when loggedIn in the future
-##   Live-version
+## https://reddit-next-clone-giorgiodettmar-gmxde.vercel.app/  Live-version
 
 First, run the development server:
 
